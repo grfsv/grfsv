@@ -11,9 +11,9 @@
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=go,nodejs,express,java,laravel&theme=light)](https://skillicons.dev)
 #### Database
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mongodb,mysql,redis,firebase&theme=light)](https://skillicons.dev)
-#### Tool
-[![My Skills](https://skillicons.dev/icons?i=docker,bash,github,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mongodb,mysql,redis&theme=light)](https://skillicons.dev)
+#### Tools
+[![My Skills](https://skillicons.dev/icons?i=firebase,docker,bash,github,aws&theme=light)](https://skillicons.dev)
 
 <!--
 **grfsv/grfsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
