@@ -2,8 +2,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=grfsv&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=grfsv&theme=github)
 ## Description
+27卒の専門学生です。
 サーバーサイドに興味があります。モバイルもやってます。  
-27卒です。よろしくお願いします。
+よろしくお願いします。
 
 ## Skills
 #### Frontend / Mobile
